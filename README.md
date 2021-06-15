@@ -1,1 +1,6 @@
-# first_portfolio_revised
+###　初めての自己紹介サイトになります
+
+背景
+
+作成技術
+
